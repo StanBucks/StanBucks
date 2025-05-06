@@ -25,8 +25,6 @@
     PS C:\> .\__remediation_template(STIG-ID-WN10-AU-000500).ps1 
 #>
 
-# YOUR CODE GOES HERE
-
 # Set the maximum size (in KB) for the Application event log
 $regPath = 'HKLM:\SOFTWARE\Policies\Microsoft\Windows\EventLog\Application'
 $maxSizeKB = 32768  # 0x00008000 in hex, which is 32,768 KB (32 MB)
