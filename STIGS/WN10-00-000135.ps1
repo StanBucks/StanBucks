@@ -4,7 +4,7 @@
 
 .NOTES
     Author          : Stan Bucks
-    LinkedIn        : linkedin.com/in/stanbucks/
+    LinkedIn        : linkedin.com/in/stan-bucks/
     GitHub          : github.com/StanBucks
     Date Created    : 2025-05-06
     Last Modified   : 2024-05-06
